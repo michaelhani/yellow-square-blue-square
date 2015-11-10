@@ -1,0 +1,17 @@
+.bluesq {
+	background: #5B9BD5;
+	position: relative;
+	height: 500px;
+	width: 500px;
+}
+.yellowsq {
+	background: #FFFF00;
+	height: 50%;
+	width: 50%;
+	margin: auto;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+}
